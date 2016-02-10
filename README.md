@@ -1,11 +1,11 @@
 yii2-cms
 =============
 
-[![Latest Stable Version](https://poser.pugx.org/kartik-v/yii2-dynagrid/v/stable)](https://packagist.org/packages/kartik-v/yii2-dynagrid)
-[![License](https://poser.pugx.org/kartik-v/yii2-dynagrid/license)](https://packagist.org/packages/kartik-v/yii2-dynagrid)
-[![Total Downloads](https://poser.pugx.org/kartik-v/yii2-dynagrid/downloads)](https://packagist.org/packages/kartik-v/yii2-dynagrid)
-[![Monthly Downloads](https://poser.pugx.org/kartik-v/yii2-dynagrid/d/monthly)](https://packagist.org/packages/kartik-v/yii2-dynagrid)
-[![Daily Downloads](https://poser.pugx.org/kartik-v/yii2-dynagrid/d/daily)](https://packagist.org/packages/kartik-v/yii2-dynagrid)
+[![Latest Stable Version](https://poser.pugx.org/dlds/yii2-cms/v/stable)](https://packagist.org/packages/dlds/yii2-cms)
+[![License](https://poser.pugx.org/dlds/yii2-cms/license)](https://packagist.org/packages/dlds/yii2-cms)
+[![Total Downloads](https://poser.pugx.org/dlds/yii2-cms/downloads)](https://packagist.org/packages/dlds/yii2-cms)
+[![Monthly Downloads](https://poser.pugx.org/dlds/yii2-cms/d/monthly)](https://packagist.org/packages/dlds/yii2-cms)
+[![Daily Downloads](https://poser.pugx.org/dlds/yii2-cms/d/daily)](https://packagist.org/packages/dlds/yii2-cms)
 
 The **yii2-cms**  module easy CMS system supports basic features of each simple blog. The main features of this module are:
 
